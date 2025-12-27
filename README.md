@@ -38,8 +38,6 @@ In the Cliff Walking problem (a classic example from Sutton & Barto), the agent 
 - `cv2` (if visualization is enabled)
 - `pickle` (for saving/loading Q-tables)
 
-- i dotn know if anyone is reading this nut wowowo
-
 Install dependencies:
 ```bash
 pip install gymnasium numpy matplotlib opencv-python
